@@ -1,0 +1,14 @@
+/*
+ * Empty Stylesheet file.
+ */
+*{
+    -fx-font-family: Tahoma;
+}
+VBox{
+    
+}
+
+HBox {
+    -fx-spacing: 10;
+    -fx-padding: 5;
+}
